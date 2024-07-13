@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Quyen Tran, a girl passionate about exploring 
 
 ## 🎓 Education
 - **DePauw University**  
-  Major: Computer Science and Mathematics 
+  Majors: Computer Science and Mathematics 
 
 ## 🧑‍💻 Interests
 - Algorithms, logic, theoretical problems, and optimization in machine learning/AI
