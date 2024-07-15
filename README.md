@@ -16,3 +16,6 @@ Welcome to my GitHub profile! I'm Quyen Tran, a girl passionate about exploring 
 ## 💻 Technologies
 - **Programming Languages:** Python, Java, JavaScript, R
 - **Mathematical and Scientific Tools:** LaTeX, MATLAB
+
+![Quyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=quyenlhtran&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quyenlhtran&layout=compact&theme=radical)
