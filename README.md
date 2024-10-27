@@ -8,5 +8,5 @@ Welcome to my GitHub profile! I'm Quyen Tran, a girl passionate about exploring 
 - **DePauw University**  
   Majors: Computer Science and Mathematics 
 
-![Quyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=quyenlhtran&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quyenlhtran&layout=compact&theme=radical)
+
